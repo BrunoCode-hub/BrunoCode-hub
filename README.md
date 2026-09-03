@@ -48,6 +48,7 @@
 <div align="center">
 <img src="https://media.tenor.com/jJ31S_tcfmgAAAAi/zekrom-pokemon-zekrom.gif">
 <img src="https://media.tenor.com/k1lB-0uY5J0AAAAi/metal-sonic-finger-wag.gif">
+<img src="https://media.tenor.com/9CK-WXAMNRQAAAAi/superappleman-burnice.gif">
 </div>
 
 <div align="center" style="display: inline_block"><br>
